@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/model_to_obj/model_to_obj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/model_to_obj/model_to_obj/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/model_to_obj/model_to_obj/stdafx.cpp
+END
+model_to_obj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/model_to_obj/model_to_obj/model_to_obj.cpp
+END
+model_to_obj.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/model_to_obj/model_to_obj/model_to_obj.vcproj
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/model_to_obj/model_to_obj/stdafx.h
+END
